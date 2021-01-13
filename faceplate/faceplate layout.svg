@@ -10,7 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="140"
    inkscape:export-xdpi="140"
-   inkscape:export-filename="E:\!Projects\!31. Hackathon Synth\basic-synth\modules\Sequencer\2X8D-Sequencer\faceplate\faceplate layout 20210109.png"
+   inkscape:export-filename="E:\!Projects\!31. Hackathon Synth\basic-synth\modules\Sequencer\2X8D-Sequencer\faceplate\faceplate layout 20210112.png"
    sodipodi:docname="faceplate layout.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
@@ -25,8 +25,8 @@
      inkscape:snap-global="true"
      inkscape:bbox-nodes="false"
      inkscape:window-maximized="1"
-     inkscape:window-y="-6"
-     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
      inkscape:window-height="1017"
      inkscape:window-width="1920"
      inkscape:snap-object-midpoints="true"
@@ -43,9 +43,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="85.17653"
-     inkscape:cx="455.79859"
-     inkscape:zoom="0.38663632"
+     inkscape:cy="627.50404"
+     inkscape:cx="782.75377"
+     inkscape:zoom="0.54678633"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4513,7 +4513,7 @@
          x="239.90594"
          y="160.82321"
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         id="tspan3347-7-2-3-63-00-3-9">SP8T</tspan></text>
+         id="tspan3347-7-2-3-63-00-3-9">SP10T</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:0.9;font-family:Tunga;-inkscape-font-specification:Tunga;text-align:center;text-anchor:middle;stroke-width:0.264583"
@@ -4691,7 +4691,7 @@
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="185.82321"
          x="240.00728"
-         sodipodi:role="line">SP8T</tspan></text>
+         sodipodi:role="line">SP10T</tspan></text>
     <text
        id="text3345-0-9-4-3-62-0-1-4"
        y="176.9332"
@@ -4828,12 +4828,12 @@
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="124.71069"
          x="339.92401"
-         sodipodi:role="line">CV Max</tspan><tspan
+         sodipodi:role="line">CV Polarity</tspan><tspan
          id="tspan4599"
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="129.1557"
          x="339.92401"
-         sodipodi:role="line">Level A</tspan><tspan
+         sodipodi:role="line">A</tspan><tspan
          id="tspan4557"
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="133.60071"
@@ -4980,16 +4980,16 @@
        x="339.92401"
        style="font-size:4.9389px;line-height:0.9;font-family:Tunga;-inkscape-font-specification:Tunga;text-align:center;text-anchor:middle;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         id="tspan3347-7-2-3-63-00-3-9-6"
+         id="tspan4595"
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="174.71069"
          x="339.92401"
-         sodipodi:role="line">CV Max</tspan><tspan
-         id="tspan4595"
+         sodipodi:role="line">CV Polarity</tspan><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="179.1557"
          x="339.92401"
-         sodipodi:role="line">Level B</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2007">B</tspan><tspan
          id="tspan4589"
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="183.60071"
@@ -6402,7 +6402,7 @@
          y="111.33601"
          x="3.8267801"
          id="tspan3708"
-         sodipodi:role="line">20210109</tspan></text>
+         sodipodi:role="line">20210111</tspan></text>
     <text
        id="text3345-0-9-4-3-1-44-9-6-7-8-5-6"
        y="18.817169"
